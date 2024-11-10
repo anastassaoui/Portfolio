@@ -96,7 +96,7 @@ def aboutMe():
 
     <div class="links space-x-96 md:mt-8">
         <a href="https://github.com/anastassaoui" target="_blank"><i class="fab fa-github link-icon"></i>GitHub</a>
-        <a href="https://linkedin.com/in/anastassaoui" target="_blank"><i class="fab fa-linkedin link-icon"></i>LinkedIn</a>
+        <a href="https://linkedin.com/in/anas-tassaoui-732467300" target="_blank"><i class="fab fa-linkedin link-icon"></i>LinkedIn</a>
     </div>
     """, unsafe_allow_html=True)
 
